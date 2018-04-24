@@ -1,8 +1,4 @@
-/**
- * Ahmed Ali Eisawy 20110483
- * Mohamed Ramadan  20120309
- 
- */
+
 package datastorageassignment2;
 
 import java.io.IOException;
